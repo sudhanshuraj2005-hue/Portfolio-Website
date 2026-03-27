@@ -1,0 +1,8 @@
+.env
+node_modules/
+dist/
+build/
+.cache/
+.netlify/
+.DS_Store
+Thumbs.db
